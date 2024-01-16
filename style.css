@@ -70,11 +70,12 @@ nav{
     padding: 15px;
     box-shadow: 0px 7px 7px #1a00008c;
     font-family: var(--fontepadrao);
+    
 }
 
 nav a{
     color: white;
-    padding: 5px;
+    padding: 10px;
     text-decoration: none;
     font-weight: bold;
     transition-duration: .2s;
